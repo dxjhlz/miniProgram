@@ -1,0 +1,62 @@
+/* pages/lists/list.wxss */
+/* view */
+/* .container1 view { 
+  width: 100px;
+  height: 100px; 
+}
+.container1 view:nth-child(1){
+  background-color: blue;
+}
+.container1 view:nth-child(2){
+  background-color: red;
+}
+.container1 view:nth-child(3){
+  background-color: green;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-around;
+} */
+/* view */
+/* scroll-view */
+/* .container1 view { 
+  width: 100px;
+  height: 100px; 
+}
+.container1 view:nth-child(1){
+  background-color: blue;
+}
+.container1 view:nth-child(2){
+  background-color: red;
+}
+.container1 view:nth-child(3){
+  background-color: green;
+}
+
+.container1 {
+  width: 100px;
+  height: 120px;
+  border: 1px solid red;
+}  */
+/* scroll-view */
+
+/* swiper */
+.swiper-container1{
+  height: 150px;
+}
+.swiper-container1 view { 
+  height: 100%; 
+  line-height: 150px;
+  text-align: center;
+}
+.swiper-container1 swiper-item:nth-child(1) view{
+  background-color: pink;
+}
+.swiper-container1 swiper-item:nth-child(2) view{
+  background-color: skyblue;
+}
+.swiper-container1 swiper-item:nth-child(3) view{
+  background-color: green;
+}
+/* swiper */
